@@ -1,0 +1,8 @@
+python3或以上
+redis
+flask框架
+requests
+BeautifulSoup
+re
+asyncio
+aiohttp
